@@ -5,5 +5,7 @@ To run this applications,
 2. Install some additional modules. Open command prompt, and from pmagpy environment do this:
 
 > pip install xlwt
+> 
 > pip install openpyxl
+> 
 > pip install xlrd
